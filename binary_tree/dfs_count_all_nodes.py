@@ -155,8 +155,3 @@ if __name__ == "__main__":
     # print("\nsum all left nodes of the binary tree:", bt.dfs_sum_left_nodes_with_root(bt.root))
 
     print("\nmax depth of the binary tree:", bt.dfs_max_depth(bt.root))
-
-    print("1 and 1: ", 1 and 1)
-    print("1 and 0: ", 1 and 0)
-    print("1 or 1: ", 1 or 1)
-    print("1 or 0: ", 1 or 0)
